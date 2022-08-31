@@ -1,6 +1,5 @@
-Hi! I am a senior Computer Science student at Texas A&M Commerce. I enjoy all things math and computer science related. I am interested in Machine Learning,
-more specifically Deep Learning. I am currently independently learning Keras and PyTorch. I am currently working on several projects, which I will eventually get around
-to adding to this space. I am always looking for projects to expand my knowledge and understanding of the Machine Learning world. I can be reached at 
+Hi! I am a senior Computer Science student at Texas A&M Commerce. I enjoy all things math and computer science related. Some of my interests include: Deep Learning, 
+Algorithmic Game Theory, Data Analysis, Applied/Computational Mathematics, Mathematical Modeling and Embedded Systems (IoTs). I can be reached at 
 jlutz1@leomail.tamuc.edu. 
 
 <!---
